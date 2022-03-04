@@ -19,7 +19,7 @@ function initialize() {
     divObjectObject = document.querySelector('#object-example');
 
     // EventListeners
-    btnAnalyseSentence.addEventListener('click', displayStrinAnalysis);
+    btnAnalyseSentence.addEventListener('click', displayStringAnalysis);
 
     // Startup
     inpSentence.value = 'Jantje zag een pruimen hangen, als eieren zo groot ...';
