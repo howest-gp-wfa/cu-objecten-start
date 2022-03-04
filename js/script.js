@@ -29,7 +29,7 @@ function initialize() {
     displayObjectExample();
 }
 
-function displayStrinAnalysis(){
+function displayStringAnalysis(){
     const sentence = inpSentence.value;
     let word = [];  // Emty Array
     let analysis = `Analyse van de ingegeven zin :`;
